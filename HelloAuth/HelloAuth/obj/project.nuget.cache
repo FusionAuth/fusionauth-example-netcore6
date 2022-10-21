@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "fKnyom/tNmcJmKL7HV0fqsX5ze55nLAxiBw8UtNU0RVCty6phBCYsVvfXz9VTdMITtb6Ee785TGq9KTQ0Rw0xA==",
+  "success": true,
+  "projectFilePath": "/Users/tedneward/Projects/fusionauth/examples/fusionauth-example-netcore6/HelloAuth/HelloAuth/HelloAuth.csproj",
+  "expectedPackageFiles": [
+    "/Users/tedneward/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/6.0.10/microsoft.aspnetcore.authentication.openidconnect.6.0.10.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.10.0/microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/microsoft.identitymodel.logging/6.10.0/microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/microsoft.identitymodel.protocols/6.10.0/microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.10.0/microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/microsoft.identitymodel.tokens/6.10.0/microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/system.identitymodel.tokens.jwt/6.10.0/system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "/Users/tedneward/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
