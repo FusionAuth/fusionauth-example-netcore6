@@ -4,7 +4,7 @@ An ASP.NET Core application using FusionAuth as the identity server. This applic
 
 You need to have .NET Core installed to run this code; when written, .NET Core 6 and Visual Studio 2022 was used.
 
-Set up FusionAuth as documented in the blog post.
+Set up FusionAuth as documented in one of [the installation guides](https://fusionauth.io/docs/v1/tech/installation-guide/).
 
 To run the ASP.NET Core, either:
 
