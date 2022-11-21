@@ -12,3 +12,5 @@ To run the ASP.NET Core, either:
 * Load HelloAuth.sln in Visual Studio and click "Run".
 
 Either approach should open a browser containing the running application.
+
+You can also read the [corresponding blog post](https://fusionauth.io/blog/2022/11/21/asp-net-core-identity-considered-harmful).
